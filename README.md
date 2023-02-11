@@ -1,7 +1,12 @@
 # Laravel commands history
 A simple Laravel package to store every artisan command history with arguments and options in database.
 
-[![Total Downloads](http://poser.pugx.org/haroon-mahmood-4276/laravel-commands-history/downloads)](https://packagist.org/packages/haroon-mahmood-4276/laravel-commands-history) [![Latest Unstable Version](http://poser.pugx.org/haroon-mahmood-4276/laravel-commands-history/v/unstable)](https://packagist.org/packages/haroon-mahmood-4276/laravel-commands-history) [![License](http://poser.pugx.org/haroon-mahmood-4276/laravel-commands-history/license)](https://packagist.org/packages/haroon-mahmood-4276/laravel-commands-history) [![PHP Version Require](http://poser.pugx.org/haroon-mahmood-4276/laravel-commands-history/require/php)](https://packagist.org/packages/haroon-mahmood-4276/laravel-commands-history)
+
+<a href="https://packagist.org/packages/haroon-mahmood-4276/laravel-commands-history"><img src="https://img.shields.io/packagist/v/haroon-mahmood-4276/laravel-commands-history?color=green" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/haroon-mahmood-4276/laravel-commands-history"><img src="https://img.shields.io/github/downloads/haroon-mahmood-4276/laravel-commands-history/total" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/haroon-mahmood-4276/laravel-commands-history"><img src="https://img.shields.io/github/license/haroon-mahmood-4276/laravel-commands-history?color=teal" alt="License"></a>
+<a href="https://packagist.org/packages/haroon-mahmood-4276/laravel-commands-history"><img src="https://img.shields.io/packagist/stars/haroon-mahmood-4276/laravel-commands-history?color=red" alt="Stars"></a>
+<a href="https://packagist.org/packages/haroon-mahmood-4276/laravel-commands-history"><img src="https://img.shields.io/badge/php-%3E%3D8.0-orange" alt="PHP Version"></a>
 
 ## Prerequisite
 - php: >= 8.0
