@@ -1,0 +1,32 @@
+{
+    "name": "haroon-mahmood-4276/laravel-commands-history",
+    "description": "This package is to store command history in the database",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "HaroonMahmood4276\\LaravelCommandsHistory\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "haroon-mahmood-4276",
+        "email": "haroon.mahmood.4276@gmail.com",
+        "role": "Developer"
+    }],
+    "require": {
+        "php": ">=8.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "HaroonMahmood4276\\LaravelCommandsHistory\\CommandHistoryServiceProvider",
+                "HaroonMahmood4276\\LaravelCommandsHistory\\CommandEventServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
