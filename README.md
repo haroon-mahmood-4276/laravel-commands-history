@@ -1,6 +1,8 @@
 # Laravel commands history
 A simple Laravel package to store every artisan command history with arguments and options in database.
 
+[![Total Downloads](http://poser.pugx.org/haroon-mahmood-4276/laravel-commands-history/downloads)](https://packagist.org/packages/haroon-mahmood-4276/laravel-commands-history) [![Latest Unstable Version](http://poser.pugx.org/haroon-mahmood-4276/laravel-commands-history/v/unstable)](https://packagist.org/packages/haroon-mahmood-4276/laravel-commands-history) [![License](http://poser.pugx.org/haroon-mahmood-4276/laravel-commands-history/license)](https://packagist.org/packages/haroon-mahmood-4276/laravel-commands-history) [![PHP Version Require](http://poser.pugx.org/haroon-mahmood-4276/laravel-commands-history/require/php)](https://packagist.org/packages/haroon-mahmood-4276/laravel-commands-history)
+
 ## Prerequisite
 - php: >= 8.0
 - laravel/framework: >= 9.x
