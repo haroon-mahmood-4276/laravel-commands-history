@@ -1,6 +1,10 @@
 # Laravel commands history
 A simple Laravel package to store every artisan command history with arguments and options in database.
 
+## Prerequisite
+- php: >= 8.0
+- laravel/framework: >= 9.x
+
 ## Installation
 ```shell
 composer require haroon-mahmood-4276/laravel-commands-history
