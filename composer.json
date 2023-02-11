@@ -2,6 +2,7 @@
     "name": "haroon-mahmood-4276/laravel-commands-history",
     "description": "This package is to store command history in the database",
     "type": "library",
+    "version": "v1.0.0",
     "license": "MIT",
     "autoload": {
         "psr-4": {
